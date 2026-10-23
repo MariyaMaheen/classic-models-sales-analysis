@@ -105,7 +105,7 @@ is permitted.
 
 ## Author
 
-**Your Name**
+Mariya Maheen
 
--   LinkedIn: [linkedin.com/in/mariya-maheen-39675631a]
+-   LinkedIn:[Mariya Maheen](https://www.linkedin.com/in/mariya-maheen-39675631a/)
 -   GitHub: [https://github.com/MariyaMaheen]
