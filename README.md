@@ -9,10 +9,9 @@ demand, and business trends.
 
 ## Dashboard Preview
 
-Add a screenshot of your completed dashboard to the repository, then
-update the path below:
 
-![Sales Analysis Dashboard](screenshots/dashboard-overview.png)
+
+![Sales Analysis Dashboard](https://github.com/MariyaMaheen/classic-models-sales-analysis/blob/main/d1.png)
 
 ## Project Objectives
 
