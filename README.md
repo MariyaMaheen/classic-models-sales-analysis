@@ -107,5 +107,5 @@ is permitted.
 
 Mariya Maheen
 
--   LinkedIn:[Mariya Maheen](https://www.linkedin.com/in/mariya-maheen-39675631a/)
+-   LinkedIn: [Mariya Maheen](https://www.linkedin.com/in/mariya-maheen-39675631a/)
 -   GitHub: [https://github.com/MariyaMaheen]
